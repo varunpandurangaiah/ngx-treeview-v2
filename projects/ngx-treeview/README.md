@@ -1,6 +1,11 @@
-# ngx-treeview [![Build Status](https://travis-ci.org/leovo2708/ngx-treeview.svg?branch=master)](https://travis-ci.org/leovo2708/ngx-treeview) [![npm version](https://badge.fury.io/js/ngx-treeview.svg)](https://badge.fury.io/js/ngx-treeview)
+# ngx-treeview-v2 [![Build Status](https://travis-ci.org/leovo2708/ngx-treeview.svg?branch=master)](https://travis-ci.org/leovo2708/ngx-treeview) [![npm version](https://badge.fury.io/js/ngx-treeview.svg)](https://badge.fury.io/js/ngx-treeview)
 
 An Angular treeview component with checkbox
+# Author Name
+ Leo Vo <leovo2708@gmail.com>
+
+# Contributor Name
+ Varun P <varunp5814@gmail.com>
 
 ## Dependencies
 
@@ -27,7 +32,7 @@ You can customize CSS yourself to break down dependencies to Bootstrap.
 
 ## Installation
 
-After install the above dependencies, install `ngx-treeview` via:
+After install the above dependencies, install `ngx-treeview-v2` via:
 
 ```shell
 npm install ngx-treeview --save
