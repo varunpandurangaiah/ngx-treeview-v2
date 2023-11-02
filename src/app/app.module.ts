@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
-import { TreeviewModule } from 'ngx-treeview';
+import { TreeviewModule } from 'ngx-treeview-v2';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { BookComponent } from './book/book.component';

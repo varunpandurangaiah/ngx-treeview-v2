@@ -1,6 +1,6 @@
 {
   "name": "ngx-treeview-v2",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "description": "An Angular treeview component with checkbox",
   "scripts": {
@@ -45,6 +45,7 @@
     "@angular/router": "^14.3.0",
     "bootstrap": "^4.5.0",
     "lodash": "^4.17.15",
+    "ngx-treeview-v2": "^1.0.4",
     "rxjs": "~6.5.5",
     "tslib": "^2.6.0",
     "zone.js": "~0.11.4"

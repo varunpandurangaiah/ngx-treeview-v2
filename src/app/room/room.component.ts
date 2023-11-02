@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { TreeviewConfig, TreeviewItem } from 'ngx-treeview';
+import { TreeviewConfig, TreeviewItem } from 'ngx-treeview-v2';
 import { RoomService } from './room.service';
 
 @Component({

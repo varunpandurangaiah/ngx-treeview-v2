@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { TreeviewItem, TreeviewConfig } from 'ngx-treeview';
+import { TreeviewItem, TreeviewConfig } from 'ngx-treeview-v2';
 import { BookService } from './book.service';
 
 @Component({

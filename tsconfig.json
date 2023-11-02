@@ -18,9 +18,9 @@
       "dom"
     ],
     "paths": {
-      "ngx-treeview": [
+      "ngx-treeview-v2": [
         // "dist/ngx-treeview"
-        "projects/ngx-treeview/src/public-api"
+        "projects/ngx-treeview-v2/src/public-api"
       ]
     }
   }

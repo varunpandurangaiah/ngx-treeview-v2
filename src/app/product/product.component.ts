@@ -3,7 +3,7 @@ import { isNil, remove, reverse } from 'lodash';
 import {
   TreeviewItem, TreeviewConfig, TreeviewHelper, TreeviewComponent,
   TreeviewEventParser, OrderDownlineTreeviewEventParser, DownlineTreeviewItem
-} from 'ngx-treeview';
+} from 'ngx-treeview-v2';
 import { ProductService } from './product.service';
 
 @Injectable()

@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { TreeviewI18n, DropdownTreeviewComponent } from 'ngx-treeview';
+import { TreeviewI18n, DropdownTreeviewComponent } from 'ngx-treeview-v2';
 import { City, CityService } from './city.service';
 import { CityTreeviewI18n } from './city-treeview-i18n';
 
